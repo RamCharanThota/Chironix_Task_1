@@ -39,7 +39,7 @@ int main(int argc, char **argv)
         ROS_INFO("Robot is rotating clock-wise,Time Lapsed: [%f]", duration) ;
        
     }
-  ROS_INFO("Stopping the Robot as max rotation duration is completed ..");
+  ROS_INFO("Stopping the Robot as rotation duration is completed ..");
 
   return 0;
   }
